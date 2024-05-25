@@ -1,0 +1,54 @@
+
+# tap repositories and their packages
+
+tap homebrew/core
+brew brotli
+brew ca-certificates
+brew curl
+brew exa
+brew gettext
+brew gh
+brew go
+brew jq
+brew lazydocker
+brew lazygit
+brew libgit2
+brew libidn2
+brew libnghttp2
+brew libssh2
+brew libtermkey
+brew libunistring
+brew libuv
+brew libvterm
+brew luajit
+brew luv
+brew lz4
+brew msgpack
+brew neovim
+brew oniguruma
+brew openldap
+brew openssl@1.1
+brew rtmpdump
+brew starship
+brew tree-sitter
+brew unibilium
+brew xz
+brew zig
+brew zstd
+
+tap homebrew/cask
+cask qlmarkdown
+
+tap homebrew/cask-fonts
+cask font-fira-code
+
+tap rcmdnk/file
+brew brew-file
+
+# App Store applications
+appstore 682658836 GarageBand (10.4.8)
+appstore 1452453066 Hidden Bar (1.8)
+appstore 408981434 iMovie (10.3.6)
+appstore 409183694 Keynote (13.0)
+appstore 409203825 Numbers (13.0)
+appstore 409201541 Pages (13.0)
