@@ -148,6 +148,10 @@ alias dev='~/Developer'
 alias key='key'
 
 eval "$(zoxide init zsh)"
-source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-
 eval "$(atuin init zsh --disable-up-arrow)"
+export PATH="/opt/homebrew/opt/postgresql@15/bin:$PATH"
+
+### MANAGED BY RANCHER DESKTOP START (DO NOT EDIT)
+export PATH="/Users/warmachine/.rd/bin:$PATH"
+### MANAGED BY RANCHER DESKTOP END (DO NOT EDIT)
+ 
